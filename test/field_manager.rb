@@ -1,5 +1,5 @@
 require 'singleton'
-requireire './field1'
+require '../test/field1'
 
 class FieldManager
   include Singleton
@@ -8,11 +8,12 @@ class FieldManager
 
   def initialize
     @field = []
-    @field = Field1.field
+    @field = Field1.field.transpose
     @field_log=[]
   end
 
   def push(field)
+    field = field.transpose
     @field_log << field
     @field = field
   end

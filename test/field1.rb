@@ -1,4 +1,4 @@
-module Field
+module Field1
 
   @@field=[
                  [-1,-1,-1,-1,-1,-1,-1,-1,-1,-1],
@@ -17,5 +17,5 @@ module Field
     return @@field
   end
 
-  module_function :field1
+  module_function :field
 end

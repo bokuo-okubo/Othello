@@ -1,18 +1,28 @@
 require "./printer"
 require "./field_manager"
+require "../test/checker"
 
 class Controller
   def initialize
     @printer = Printer.new
-    @field = FieldManager.new
-    @input=[]
-    @checker = Cheker.new
+    @field = FieldManager.instance
+    @checker = Checker.new
+    @color =1
+    @x=0
+    @y=0
+    print "the first Turn is BLACK"
   end
 
 
   def getInput
     color,x,y=gets.chomp.split(" ")
-    @input = [color,x,y]
+    @x,@y=x.to_i,y.to_i
+    case color
+      when "B"
+        @color=1
+      when "W"
+        @color=2
+    end
   end
 
   def printField
@@ -20,16 +30,19 @@ class Controller
   end
 
   def flip
-
+   while @checker.canflip?(@x,@y)
+    print "cannnot place the place! \n"
+    getInput
+   end
+    @checker.flip(@color,@x,@y)
   end
 
   def printResult
   end
 
   def isGameEnd?
-    canputArr=[]
-    color = @input[0]
-    canputArr = checker.setCanPutArr(@field.field,color)
-    canput = canputArr.length == 0 ? true : false
+    @color = @input[0]
+    gameSet = true
+    gameSet = false if @checker.setCanPutArr(@color)
   end
 end
