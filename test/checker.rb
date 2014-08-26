@@ -1,11 +1,11 @@
-require "../test/field"
+require "../test/field1"
 
 class Checker
   def initialize
     @canPutArr =[]
   end
 
-  def scanField(field,color)
+  def setCanPutArr(field,color)
     blanks=getBlank(field)
 
     blanks.each do |x,y|

@@ -1,12 +1,9 @@
 
 class Printer
 
-  def initialize
-    
-  end
-
-  def printField(field)
-    _field = field
+  def printField
+    field = FieldManager.instance
+    _field = field.field
     temp = convertReal(_field)
 
     temp.pop

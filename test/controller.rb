@@ -1,16 +1,12 @@
 require "./printer"
-require "./field"
+require "./field_manager"
 
 class Controller
   def initialize
     @printer = Printer.new
-    @field = Field.new
+    @field = FieldManager.new
     @input=[]
     @checker = Cheker.new
-  end
-
-  def init
-
   end
 
 
@@ -20,10 +16,11 @@ class Controller
   end
 
   def printField
-    @printer.print(@field.field)
+    @printer.printField
   end
 
   def flip
+
   end
 
   def printResult
@@ -31,7 +28,8 @@ class Controller
 
   def isGameEnd?
     canputArr=[]
-    canputArr = checker.scanField(@field.field)
+    color = @input[0]
+    canputArr = checker.setCanPutArr(@field.field,color)
     canput = canputArr.length == 0 ? true : false
   end
 end
