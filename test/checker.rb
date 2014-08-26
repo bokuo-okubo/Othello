@@ -6,6 +6,9 @@ require "../test/scanner"
 class Checker
   def initialize
     @canPutArr =[]
+  end
+
+  def init
     @scan = Scanner.new
   end
 
@@ -34,27 +37,33 @@ class Checker
   end
 
   def setCanPutArr(color)
-    initialize
+    p "setCanPutArr"
+    @canPutArr =[]
+    p "setCanPutArr"
 
     field = FieldManager.instance.field
     blanks=getBlanks(field)
 
-    blanks.each do |x,y|
+    blanks.each do |arr|
+      x,y=arr[0],arr[1]
+      p "blanks.each"
      @canPutArr << @scan.scanAllDirection(color,x,y) if @scan.scanAllDirection(color,x,y)
     end
+    @canPutArr
     return @canPutArr unless @canPutArr.length==0 #[ [ [x,y],toFlipAll], ]
     return false
   end
 
   def getBlanks(field)
     blanks=[]
-    x,y=1,1
+    y=1
     field.each do |line|
+      x=1
       line.each do |num|
         blanks<<[x,y] if num == 0
-        y+=1
+        x+=1
       end
-      x+=1
+      y+=1
     end
     blanks
   end

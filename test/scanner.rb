@@ -1,3 +1,5 @@
+require "../test/field_manager"
+
 class Scanner
   def scanAllDirection(color,x,y)
     toFlipAll = []
@@ -13,11 +15,13 @@ class Scanner
     y=currentY
     field =FieldManager.instance.field
 
+    # p "hoge",field,x,y
+
     toflipArr =[]
     cnt = 0
     sta = true
     x,y = go(x,y,dir)
-
+    p [x,y]
     while sta == true
       point = field[x][y]
       if point == 0 #空白の場合

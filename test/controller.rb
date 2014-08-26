@@ -1,4 +1,4 @@
-require "./printer"
+require "../test/printer"
 require "./field_manager"
 require "../test/checker"
 
@@ -7,6 +7,7 @@ class Controller
     @printer = Printer.new
     @field = FieldManager.instance
     @checker = Checker.new
+    @checker.init
     @color =1
     @x=0
     @y=0
@@ -41,8 +42,9 @@ class Controller
   end
 
   def isGameEnd?
-    @color = @input[0]
+    p "isGameEnd?"
     gameSet = true
     gameSet = false if @checker.setCanPutArr(@color)
+    return gameSet
   end
 end

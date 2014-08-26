@@ -1,14 +1,18 @@
-require "./controller"
+require "../test/controller"
 
 class Game
   def initialize
     @cont = Controller.new
+    p "init in game"
   end
 
   def doNextTurn
+    p "doNextTurn in game"
     @cont.printField 
+    p "printField in game"
     @cont.getInput
     @cont.flip
+    
   end
 
   def printResult
@@ -17,6 +21,7 @@ class Game
   end
 
   def isGameEnd?
+    p "isgame? in game"
     @cont.isGameEnd?
   end
 end
