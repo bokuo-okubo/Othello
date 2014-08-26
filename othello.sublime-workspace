@@ -1,0 +1,832 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"realField"
+			],
+			[
+				"print",
+				"print"
+			],
+			[
+				"game",
+				"gameEnd"
+			],
+			[
+				"fie",
+				"fieldLog"
+			],
+			[
+				"fi",
+				"field"
+			],
+			[
+				"in",
+				"instance"
+			],
+			[
+				"m",
+				"m"
+			],
+			[
+				"kaku",
+				"kakuSlicer"
+			],
+			[
+				"mar",
+				"maruSlicer"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"path",
+				"pathArr"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"top",
+				"top	CSS - top: 0;"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"tr",
+				"tr	text-replace"
+			],
+			[
+				"raw",
+				"raw"
+			],
+			[
+				"img",
+				"img_num"
+			],
+			[
+				"tab",
+				"tabCts_first"
+			],
+			[
+				"filename",
+				"filename"
+			],
+			[
+				"backgrou",
+				"background-position"
+			],
+			[
+				"Ro",
+				"DELAY_ROLL_OVER"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: Ina",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: I",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML5"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/y_okubo/Dropbox/-REMOTE_WORKSPACE/{LAB}/_RubyOthello/test/Checker.rb",
+		"/Users/y_okubo/Dropbox/-REMOTE_WORKSPACE/{LAB}/_RubyOthello/test/Printer.rb",
+		"/Users/y_okubo/Dropbox/-REMOTE_WORKSPACE/{LAB}/_RubyOthello/test/Controller.rb",
+		"/Users/y_okubo/Dropbox/-REMOTE_WORKSPACE/{LAB}/_RubyOthello/test/Field.rb",
+		"/Users/y_okubo/Dropbox/-REMOTE_WORKSPACE/{LAB}/_RubyOthello/test/game.rb",
+		"/Users/y_okubo/Dropbox/-REMOTE_WORKSPACE/{LAB}/_RubyOthello/test/release.rb",
+		"/Users/y_okubo/Library/Application Support/Sublime Text 2/Packages/GoSublime/USAGE.md",
+		"/Users/y_okubo/Dropbox/-REMOTE_WORKSPACE/{LAB}/_daily/0822/tomo.rb",
+		"/Users/y_okubo/Desktop/subaru/common/font.css",
+		"/Users/y_okubo/Desktop/subaru/subaru.html",
+		"/Users/y_okubo/Desktop/subaru/common/style.css",
+		"/Users/y_okubo/Desktop/subaru/style.css",
+		"/Users/y_okubo/Dropbox/-REMOTE_WORKSPACE/{LAB}/_daily/0818/gamegame.rb",
+		"/Users/y_okubo/Dropbox/-REMOTE_WORKSPACE/{LAB}/PHP/PostTwitter/test/test.php",
+		"/Users/y_okubo/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/y_okubo/Library/Application Support/Sublime Text 2/Packages/GoSublime/CHANGELOG.md",
+		"/Users/y_okubo/Library/Application Support/Sublime Text 2/Packages/User/GoSublime.sublime-settings",
+		"/Users/y_okubo/Dropbox/-REMOTE_WORKSPACE/{LAB}/workspace/crawler/js-round/js_round.html",
+		"/Users/y_okubo/Dropbox/-REMOTE_WORKSPACE/{LAB}/workspace/crawler/js-round/js/js_round.js",
+		"/Volumes/data/-PROJECT/_FUJIYA/tisser/agribiz-fair.jp/css/custom-css.css",
+		"/Volumes/data/-PROJECT/_FUJIYA/tisser/agribiz-fair.jp/index.html",
+		"/Volumes/data/-WORKSPACE/_FUIYA/275-009-アグリビジネス/-DATA/root/agribiz-fair.jp/css/custom-css.css",
+		"/Volumes/data/-WORKSPACE/_FUIYA/275-009-アグリビジネス/-DATA/root/agribiz-fair.jp/index.html",
+		"/Volumes/data/-WORKSPACE/_FUIYA/275-009-アグリビジネス/-DATA/140717_ファイル一式/wp-load.php",
+		"/Volumes/data/-PROJECT/_benesse_lp/276-000-benesse_lp/contents/baby/advices/safety.html",
+		"/Volumes/data/-PROJECT/_benesse_lp/276-000-benesse_lp/contents/baby/advices/play.html",
+		"/Volumes/data/-PROJECT/_benesse_lp/276-000-benesse_lp/contents/baby/advices/life.html",
+		"/Volumes/data/-PROJECT/_benesse_lp/276-000-benesse_lp/contents/baby/advices/foods.html",
+		"/Volumes/data/-PROJECT/_benesse_lp/276-000-benesse_lp/contents/baby/advices/events.html",
+		"/Volumes/data/-PROJECT/_benesse_lp/276-000-benesse_lp/contents/baby/advices/health.html",
+		"/Volumes/data/-PROJECT/_benesse_lp/276-000-benesse_lp/m/contents/baby/advices/play.html",
+		"/Volumes/data/-PROJECT/_benesse_lp/276-000-benesse_lp/m/contents/baby/advices/css/index.css",
+		"/Volumes/data/-PROJECT/_benesse_lp/276-000-benesse_lp/m/contents/baby/advices/index.html",
+		"/Volumes/data/-PROJECT/_benesse_lp/276-000-benesse_lp/m/contents/baby/advices/safety.html",
+		"/Volumes/data/-PROJECT/_benesse_lp/276-000-benesse_lp/contents/baby/advices/index.html",
+		"/Volumes/data/-PROJECT/_benesse_lp/276-000-benesse_lp/contents/baby/advices/css/pages/index.css",
+		"/Volumes/data/-PROJECT/_benesse_lp/276-000-benesse_lp/contents/baby/advices/css/pages/lists.css",
+		"/Users/y_okubo/Desktop/untitled folder/tsunagare/js/libs.js",
+		"/Volumes/data/{LAB}/Pagetext-generator/pagetext-generater/src/style.css",
+		"/Volumes/data/{LAB}/Pagetext-generator/pagetext-generater/src/pagetext.js",
+		"/Volumes/data/{LAB}/Pagetext-generator/pagetext-generater/src/index.html",
+		"/Volumes/data/{LAB}/pagetext-generater/style.css",
+		"/Volumes/data/{LAB}/pagetext-generater/index.html",
+		"/Volumes/data/ServerSpace/-shisa3/shisa3/libs/views/ja/src/css/login.css",
+		"/Volumes/data/ServerSpace/-shisa3/shisa3/libs/views/ja/src/css/timeline.css",
+		"/Volumes/data/ServerSpace/-shisa3/shisa3/libs/views/ja/index.html",
+		"/Volumes/data/-PROJECT/_SUBARU/15MY/data/brz/03_pagetext/ks/sources/textPDF-KS.html",
+		"/Volumes/data/ServerSpace/-shisa3/shisa3/libs/Site.php",
+		"/Volumes/data/ServerSpace/-shisa3/shisa3/libs/views/ja/src/css/nickname.css",
+		"/Volumes/data/ServerSpace/-shisa3/shisa3/htdocs/index.php",
+		"/Volumes/data/ServerSpace/-shisa3/shisa3/htdocs/phpinfo.php",
+		"/Volumes/data/ServerSpace/-shisa3/shisa3/libs/ConfigApp.php",
+		"/Volumes/data/-PROJECT/_ARFLEX/_project/411-001-arflex/common/css/style.css",
+		"/Volumes/data/-PROJECT/_ARFLEX/_project/411-001-arflex/shop/index.html",
+		"/Volumes/data/-PROJECT/_ARFLEX/_project/411-001-arflex/topics/index.html",
+		"/Volumes/data/-PROJECT/_ARFLEX/_project/411-001-arflex/service/index.html",
+		"/Volumes/data/-PROJECT/_ARFLEX/_project/411-001-arflex/about/index.html",
+		"/Volumes/data/-PROJECT/_ARFLEX/_project/411-001-arflex/products/index.html",
+		"/Users/y_okubo/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/y_okubo/Library/Application Support/Sublime Text 2/Packages/User/HTML.sublime-settings",
+		"/Volumes/data/-PROJECT/_ARFLEX/_project/411-001-arflex/_modules.html",
+		"/Users/y_okubo/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/y_okubo/Library/Application Support/Sublime Text 2/Packages/Goto-CSS-Declaration/Default (OSX).sublime-keymap",
+		"/Users/y_okubo/Library/Application Support/Sublime Text 2/Packages/User/SimpleClone.sublime-settings",
+		"/Users/y_okubo/Library/Application Support/Sublime Text 2/Packages/SimpleClone/SimpleClone.sublime-settings",
+		"/Users/y_okubo/Library/Application Support/Sublime Text 2/Packages/Browser Refresh/Default (OSX).sublime-keymap",
+		"/Volumes/data/-PROJECT/_the_north_face/--project/--lively/tnf/template_whatsnew.html",
+		"/Volumes/data/-PROJECT/_the_north_face/--project/--lively/tnf/index.html",
+		"/Volumes/data/-PROJECT/_the_north_face/--project/--lively-edit-top-140616-e06efc1/tnf/index.html",
+		"/Volumes/data/ServerSpace/GoogleAPItest/test/google-test.php",
+		"/Users/y_okubo/Library/Application Support/Sublime Text 2/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Volumes/data/-PROJECT/_ARFLEX/_project/411-001-arflex/js/index.js",
+		"/Users/y_okubo/Library/Application Support/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/Volumes/data/-PROJECT/_KOMINE_MUSEN/_project/270-001-komine_musen-edit-licence-140616-9b86d55/public/recommend/item03.html",
+		"/Volumes/data/ServerSpace/GoogleAPItest/test/google-test.html",
+		"/Volumes/data/ServerSpace/GoogleAPItest/common/js/jquery.js",
+		"/Volumes/data/ServerSpace/GoogleAPItest/-RELEASE/sender.php",
+		"/Volumes/data/ServerSpace/GoogleAPItest/-RELEASE/google-test.html",
+		"/Volumes/data/ServerSpace/GoogleAPItest/-RELEASE/proxy/app/Proxy.php",
+		"/Volumes/data/ServerSpace/GoogleAPItest/proxy/app/Proxy.php",
+		"/Volumes/data/ServerSpace/GoogleAPItest/proxy/searchNewCountBuilding.php",
+		"/Volumes/data/ServerSpace/GoogleAPItest/proxy/searchNewBuilding.php",
+		"/Volumes/data/ServerSpace/GoogleAPItest/proxy/searchNewMaster.php",
+		"/Users/y_okubo/Downloads/proxy/searchNewBuilding.php",
+		"/Users/y_okubo/Downloads/proxy/searchNewCountBuilding.php",
+		"/Users/y_okubo/Downloads/proxy/searchNewMaster.php",
+		"/Users/y_okubo/Downloads/proxy/app/Proxy.php",
+		"/Volumes/data/-PROJECT/In-Company/google-test.rb",
+		"/Volumes/data/ServerSpace/GoogleAPItest/google-test.php",
+		"/Volumes/data/-PROJECT/_KOMINE_MUSEN/_project/270-001-komine_musen/public/company/index03.html",
+		"/Volumes/data/-PROJECT/_KOMINE_MUSEN/_project/270-001-komine_musen/public/company/index02.html",
+		"/Volumes/data/-PROJECT/_KOMINE_MUSEN/_project/270-001-komine_musen/public/recommend/item03.html",
+		"/Volumes/data/-PROJECT/_KOMINE_MUSEN/_project/270-001-komine_musen/public/index.html",
+		"/Volumes/data/-PROJECT/_KOMINE_MUSEN/_project/270-001-komine_musen/public/company/index.html",
+		"/Volumes/data/-PROJECT/_SMILE-CORPORATE/company/ecology.html.LCK",
+		"/Volumes/data/-PROJECT/_SMILE-CORPORATE/recruit/interview/index02.html",
+		"/Volumes/data/-PROJECT/_SMILE-CORPORATE/company/company.html",
+		"/Volumes/data/-PROJECT/_SMILE-CORPORATE/index.html",
+		"/Volumes/data/-PROJECT/In-Company/0616/google-test.php",
+		"/Volumes/data/ServerSpace/GoogleAPItest/test.php",
+		"/Volumes/data/-PROJECT/In-Company/0616/google-test.rb",
+		"/Users/y_okubo/Dropbox/-REMOTE_WORKSPACE/-php-spread/php-google-spreadsheet-client/src/Google/Spreadsheet/Worksheet.php",
+		"/Users/y_okubo/Dropbox/-REMOTE_WORKSPACE/-php-spread/test/test.php",
+		"/Volumes/data/~~MY/Cal_ruby/cal_v3.rb",
+		"/Volumes/data/-PROJECT/_SUBARU/15MY/-FLASH/1-BRZ/1-FHI/workspace/140610/15BRZ_140606/Exterior/{lab-test}/rename.rb",
+		"/Volumes/data/-PROJECT/_SUBARU/15MY/-FLASH/1-BRZ/1-FHI/workspace/140610/15BRZ_140606/Exterior/rename.rb",
+		"/Users/y_okubo/-/temp.as",
+		"/Users/y_okubo/Desktop/-/temp.html",
+		"/Volumes/data/-PROJECT/_TOMO/-project/276-001-tomo/tomo/index.html",
+		"/Users/y_okubo/Desktop/pagepop.as",
+		"/Users/y_okubo/Desktop/brzpop.as",
+		"/Volumes/data/-PROJECT/_FUJIYA/-PROJECT/275-001-fujiya_corporate/request/outside/tpl_complete.html",
+		"/Volumes/data/-PROJECT/_FUJIYA/-PROJECT/275-001-fujiya_corporate/en/request/request/tpl_complete.html",
+		"/Volumes/data/-PROJECT/_FUJIYA/-PROJECT/275-001-fujiya_corporate/request/recruit_nagoya/tpl_complete.html",
+		"/Volumes/data/-PROJECT/_FUJIYA/-PROJECT/275-001-fujiya_corporate/request/recruit_tokyo/tpl_complete.html",
+		"/Volumes/data/-PROJECT/_FUJIYA/-PROJECT/275-001-fujiya_corporate/request/recruit/tpl_complete.html",
+		"/Volumes/data/-PROJECT/_FUJIYA/-PROJECT/275-001-fujiya_corporate/request/request/tpl_complete.html",
+		"/Volumes/data/-PROJECT/_FUJIYA/-PROJECT/275-001-fujiya_corporate/request/recruit_sendai/tpl_complete.html",
+		"/Volumes/data/-PROJECT/_FUJIYA/-PROJECT/275-001-fujiya_corporate/request/outside/tpl_confirm.html",
+		"/Volumes/data/-PROJECT/_FUJIYA/-PROJECT/275-001-fujiya_corporate/en/request/request/tpl_confirm.html",
+		"/Volumes/data/-PROJECT/_FUJIYA/-PROJECT/275-001-fujiya_corporate/request/request/tpl_confirm.html",
+		"/Volumes/data/-PROJECT/_FUJIYA/-PROJECT/275-001-fujiya_corporate/request/recruit_nagoya/tpl_confirm.html",
+		"/Volumes/data/-PROJECT/_FUJIYA/-PROJECT/275-001-fujiya_corporate/request/recruit_sendai/tpl_confirm.html",
+		"/Volumes/data/-PROJECT/_FUJIYA/-PROJECT/275-001-fujiya_corporate/request/recruit_tokyo/tpl_confirm.html",
+		"/Volumes/data/-PROJECT/_FUJIYA/-PROJECT/275-001-fujiya_corporate/request/recruit/tpl_confirm.html",
+		"/Volumes/data/-PROJECT/_FUJIYA/-PROJECT/275-001-fujiya_corporate/request/request/tpl_confirm02.html",
+		"/Volumes/data/-PROJECT/_FUJIYA/-PROJECT/275-001-fujiya_corporate/en/request/request/tpl_input.html",
+		"/Volumes/data/-PROJECT/_FUJIYA/-PROJECT/275-001-fujiya_corporate/request/request/tpl_input.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Volumes/data/-PROJECT/_benesse_lp/276-000-benesse_lp",
+			"/Volumes/data/-PROJECT/_benesse_lp/276-000-benesse_lp/contents/baby/advices"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"arrow",
+			"text-de",
+			"text-dee",
+			"png",
+			"text",
+			"z1",
+			"width=\"709\" height=\"151\" class=\"ahover\"></a></p>",
+			"lh0",
+			"\"lh0\"",
+			"img-01",
+			"560\n\n560",
+			"width=\"290\" Height=\"210\"></P>",
+			"width=\"709\" height=\"145\" class=\"ahover\"></a></p>",
+			"width=\"709\" height=\"151\" class=\"ahover\"></a></p>",
+			"bt-detail",
+			"img-03",
+			"comment",
+			"refresh",
+			"main-title",
+			"l-row",
+			"main-title",
+			"menu2-image",
+			"<div class=\"l-col\">\n                  <div class=\"menu2-image\">",
+			"menu2-image",
+			"l-col",
+			"1000",
+			"l-col-2",
+			"l-col",
+			"l-col-",
+			"l-col",
+			"l-col-",
+			"l-col",
+			"btn-detail-black",
+			"l-col-3-border",
+			"bed",
+			"font-helvetica-light",
+			"l-row",
+			"brand-logo",
+			"font-helvetica-light",
+			"main-title-shop	",
+			"mainpanel-text-shop",
+			"main-title",
+			"btn-text",
+			"main-box",
+			"l-row",
+			"l-",
+			"l-row",
+			"btn-detail-black",
+			"menu2-btn",
+			"メンテナンス",
+			"製品",
+			"service-menu-text",
+			"menu-text",
+			"font-helvetica-light",
+			"menu2",
+			"main2",
+			"font-helvatica",
+			"font-helvatica-light",
+			"phil",
+			"phil-01-txt",
+			"mainpanel-text",
+			".mainpanel-text",
+			"mainpannel-text",
+			"</a></td>",
+			"f\">",
+			"th",
+			"table",
+			"btn-detail-black",
+			"btn-detail",
+			"btn-",
+			"btn",
+			"l-row",
+			"mainpanel-text",
+			"menu-text",
+			"tpoics-box",
+			"topic05",
+			"topic09",
+			"topic08",
+			"topic05",
+			"img-01",
+			"phil-03",
+			"154",
+			"main-title",
+			"title",
+			"maintitle",
+			"mainpanel",
+			"super+shift+",
+			"super+shift+right",
+			"brand-",
+			"bland-",
+			"brand-arflex2",
+			"brand-arflex",
+			"brand-molteni",
+			"                                     ",
+			"logo-container-",
+			"logo-container",
+			"logo-",
+			"repeat",
+			"logo-box",
+			"l-logo",
+			"fujisan",
+			"tab",
+			"super+shift",
+			"ctrl+d",
+			"product",
+			"l-wrap",
+			"l-lap",
+			"fuji",
+			"naturalist",
+			"main-51",
+			"ctrl+e",
+			"ajax",
+			"img-",
+			"img-licence",
+			"main-51",
+			"\n",
+			"tab",
+			"expand",
+			"ctrl+d",
+			"ctrl+e",
+			"ctrl+d",
+			"ctrl+e",
+			"get",
+			"wallpapers/brz14e3",
+			"close",
+			"remove",
+			"close",
+			"img"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"text_box",
+			"width=\"701\" height=\"151\" class=\"ahover\"></a></p>",
+			"width=\"290\" Height=\"205\"></P>",
+			"<div class=\"l-col-about\">\n                  <div class=\"menu2-image\">",
+			"l-col-22",
+			"l-col-about",
+			"font-helvetica-light-02",
+			"service-btn-detail-black",
+			"service-menu-text",
+			"font-helvetica-light-02",
+			"font-helvatica-light-02",
+			"mainpanel-text-about",
+			"</div></a></td>",
+			"f\"><div class=\"shop-table-content\">",
+			"td",
+			"btn-detail-black-pref",
+			"menu-text-shop",
+			"topic08",
+			"topic07",
+			"topic06",
+			"topic09",
+			"topic08",
+			"topic07",
+			"topic06",
+			"topics-img-10",
+			"topics-img-09",
+			"topics-img-08",
+			"topics-img-07",
+			"topics-img-06",
+			"topics-img-05",
+			"topics-img-04",
+			"topics-img-03",
+			"topics-img-02",
+			"topics-img-01",
+			"phil-02",
+			"phil-01",
+			"178",
+			"phil-",
+			"logo-box-container-",
+			"logo-container-",
+			"logo-container",
+			"logo-box",
+			"completfujiwalker",
+			"ctrl+i",
+			"gets",
+			"wallpapers/brz15ea\n\n<script type=\"text/javascript\">\nvar _trackingid = 'LFT-10050-1';\n\n(function() {\n  var lft = document.createElement('script'); lft.type = 'text/javascript'; lft.async = true;\n  lft.src = document.location.protocol + '//track.list-finder.jp/js/ja/track.js';\n  var snode = document.getElementsByTagName('script')[0]; snode.parentNode.insertBefore(lft, snode);\n})();\n</script>",
+			"<div id=\"logtag\">\n\n<script type=\"text/javascript\">\nvar _trackingid = 'LFT-10050-1';\n\n(function() {\n  var lft = document.createElement('script'); lft.type = 'text/javascript'; lft.async = true;\n  lft.src = document.location.protocol + '//track.list-finder.jp/js/ja/track.js';\n  var snode = document.getElementsByTagName('script')[0]; snode.parentNode.insertBefore(lft, snode);\n})();\n</script>",
+			"tab03",
+			"tab04",
+			"tab05",
+			"tab06",
+			"2013-11",
+			"-10",
+			"\\\"",
+			"-#{_num}",
+			"#{_year}",
+			"#{_file}",
+			"-#{_num}",
+			"#{_num}",
+			"#{_year}",
+			"2014-02-04",
+			"2014-02-03",
+			"2014-02",
+			"2014-02\n\n2014-02",
+			"2013-02",
+			"#{$file}",
+			"\\\"",
+			"event01-2014-05",
+			"event01-2014-04",
+			"event01-2014-03",
+			"event01-2014-02",
+			"event01-2014-01",
+			"point-car-electronics",
+			"point-super-market2014",
+			"point-layon",
+			"point-sangetsu",
+			"point-leica",
+			"event01-2013-19",
+			"event01-2013-18",
+			"event01-2013-17",
+			"event01-2013-16",
+			"event01-2013-15",
+			"event01-2013-14",
+			"event01-2013-13",
+			"event01-2013-12",
+			"event01-2013-11",
+			"event01-2013-10",
+			"event01-2013-09",
+			"event01-2013-10",
+			"ph-event01-2013-09",
+			"class=\"tabsCts first-child\">",
+			"\">",
+			"-kotonoha",
+			"-interfex",
+			"tab06",
+			"tab02",
+			"\"images/03/",
+			"\"images/02/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MarGo-output":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"safe",
+				"contents/baby/advices/safety.html"
+			],
+			[
+				"pla",
+				"contents/baby/advices/play.html"
+			],
+			[
+				"li",
+				"contents/baby/advices/life.html"
+			],
+			[
+				"foo",
+				"contents/baby/advices/foods.html"
+			],
+			[
+				"ebe",
+				"contents/baby/advices/events.html"
+			],
+			[
+				"hea",
+				"contents/baby/advices/health.html"
+			],
+			[
+				"index02",
+				"recruit/interview/index02.html"
+			],
+			[
+				"com",
+				"company/company.html"
+			],
+			[
+				"tokushi",
+				"tokushima.html"
+			],
+			[
+				"hiroshi",
+				"hiroshima.html"
+			],
+			[
+				"oka",
+				"okayama.html"
+			],
+			[
+				"waka",
+				"wakayama.html"
+			],
+			[
+				"fukui",
+				"fukui.html"
+			],
+			[
+				"ishi",
+				"ishikawa.html"
+			],
+			[
+				"tokuh",
+				"tokushima.html"
+			],
+			[
+				"kago",
+				"kagoshima.html"
+			],
+			[
+				"okina",
+				"okinawa.html"
+			],
+			[
+				"kumamo",
+				"kumamoto.html"
+			],
+			[
+				"fukuoka",
+				"fukuoka.html"
+			],
+			[
+				"kagawa",
+				"kagawa.html"
+			],
+			[
+				"tott",
+				"tottori.html"
+			],
+			[
+				"ishika",
+				"ishikawa.html"
+			],
+			[
+				"nara",
+				"nara.html"
+			],
+			[
+				"aichi",
+				"aichi.html"
+			],
+			[
+				"osaka",
+				"osaka.html"
+			],
+			[
+				"mie",
+				"mie.html"
+			],
+			[
+				"aich",
+				"aichi.html"
+			],
+			[
+				"saita",
+				"saitama.html"
+			],
+			[
+				"chiba",
+				"chiba.html"
+			],
+			[
+				"kana",
+				"kanagawa.html"
+			],
+			[
+				"tokyo",
+				"tokyo.html"
+			],
+			[
+				"niga",
+				"nigata.html"
+			],
+			[
+				"fukushima",
+				"fukushima.html"
+			],
+			[
+				"miya",
+				"miyagi.html"
+			],
+			[
+				"hokkai",
+				"hokkaido.html"
+			],
+			[
+				"aomori",
+				"aomori.html"
+			],
+			[
+				"osa",
+				"osaka.html"
+			],
+			[
+				"hiro",
+				"hiroshima.html"
+			],
+			[
+				"books_cont",
+				"_@STUDIES/-rails/book_library/app/controllers/books_controller.rb"
+			],
+			[
+				"books_",
+				"_@STUDIES/-rails/book_library/app/controllers/books_controller.rb"
+			],
+			[
+				"",
+				"PROJECT/_@STUDIES/EIGHT/common/css/extension/noscript.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 133.0,
+	"status_bar_visible": true
+}
