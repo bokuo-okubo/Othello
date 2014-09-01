@@ -1,11 +1,15 @@
-require "../test/field_manager"
+require "../src/field_manager"
 
 class Scanner
   def scanAllDirection(color,x,y)
     toFlipAll = []
     an = true
-    (0..7).each{|dir| toFlipAll << linearScan(color,x,y,dir) if linearScan(color,x,y,dir)}
-
+    (0..7).each do |dir|
+      if linearScan(color,x,y,dir)
+        toFlipAll[dir]=linearScan(color,x,y,dir)
+      end
+    end
+      p "あ",[x,y],toFlipAll
     return [x,y],toFlipAll if toFlipAll.length !=0
     return nil if toFlipAll.length ==0
   end
@@ -19,10 +23,10 @@ class Scanner
 
     toflipArr =[]
     cnt = 0
-    sta = false
-    canflipNum = 0
+    sta = true
+    canflip=false
+
     x,y = go(x,y,dir)
-    # p [x,y]
     while sta == true
       point = field[x][y]
       if point == 0 #空白の場合
@@ -30,15 +34,16 @@ class Scanner
       elsif point == -1 #はしの場合
         sta = false
       elsif point != color
-        toflipArr <<[x,y]
+        toflipArr << x
+        toflipArr << y
         x,y=go(x,y,dir)
       elsif point == color
         sta = false
         canflip = true
       end
     end
-
-    if canflip
+    if (canflip&&toflipArr.length>0)
+      print "to",toflipArr
       toflipArr
     else
       nil
@@ -82,3 +87,9 @@ class Scanner
     return _x,_y
   end
 end
+
+######debug
+scan=Scanner.new
+field = FieldManager.instance.field
+# p FieldManager.instance.field{|arr| print arr,"\n"}
+#p scan.scanAllDirection(1,3,4)
